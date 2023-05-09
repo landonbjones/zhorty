@@ -1,0 +1,13 @@
+.settings/
+.cproject
+.project
+shorty
+shorty_gen
+shorty_stats
+shorty_bench
+obj/*.o
+logs/
+temp/
+hands/
+zipped_hands/
+processed_hands/

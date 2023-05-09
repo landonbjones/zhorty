@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/lbj/Projects/shorty-c-main",
+            "binaryPath": "/Users/lbj/Projects/shorty-c-main/shorty_gen",
+            "binaryArgs": []
+        }
+    ]
+}
