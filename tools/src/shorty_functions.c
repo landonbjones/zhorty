@@ -475,6 +475,8 @@ bool Get_Percent(struct game *game_to_use) {
 	}
 	free(games);
 	game_to_use->odds = (win_percent * 100);
+	printf("%2.20f\n",win_percent);
+
 	// printf("Total Moves: %i\n",total_moves);
 	// printf("Total Merges: %i\n",total_merges);
 	// printf("Total Levels: %i\n",total_levels);
